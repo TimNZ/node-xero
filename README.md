@@ -1,3 +1,8 @@
+DEPRECATED
+
+Xero are now using this sdk as the base for the official nodejs SDK, so it's getting new love.
+https://github.com/XeroAPI/xero-node
+
 node-xero
 ===========
 An API wrapper for xero (http://developer.xero.com).
