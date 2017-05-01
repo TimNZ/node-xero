@@ -44,7 +44,7 @@ var privateApp = new PrivateApplication({ consumerSecret: 'AAAAA', consumerKey: 
 ```
 
 
-Pubic Usage
+Public Usage
 =============
 ```javascript
 var PublicApplication = require('node-xero').PublicApplication;
